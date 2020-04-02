@@ -1,2 +1,6 @@
 un message
+
 « conflit : modification locale »
+
+« conflit : modification github »
+
